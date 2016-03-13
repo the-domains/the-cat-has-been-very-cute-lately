@@ -1,0 +1,28 @@
+name: the cat has been very cute lately
+favicon: null
+layout_spectrum: 0.36670187255367637
+typography_spectrum: 0.7383271732833236
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.13716196571476758
+  lightness: 0.22055373177863657
+  saturation: 0.5639201689045876
+  rhythmicContrast: 0.5214673688169569
+purpose: []
